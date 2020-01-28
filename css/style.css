@@ -1,0 +1,48 @@
+h4 {
+    padding-top: 50px;
+    font-size: 25px;
+}
+
+p {
+    color: #222222;
+    font-family: Avenir;
+}
+
+.top-card {
+    height: 250px;
+    background: tomato;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 10px 10px 0 0;
+    font-family: Avenir;
+    color: white;
+}
+
+.bottom-card {
+    height: 250px;
+    margin-top: 15%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.avatar{
+    position: static;
+    border-radius: 50%;
+    width: 15%;
+    border: 7px solid white;
+}
+
+.hobbies {
+    font-family: Avenir;
+}
+
+.social {
+    margin-top: 80px;
+    height: 100px;
+    text-align: center;
+}
+
+#social-n {
+    padding-right: 10px;
+    width: 50px;
+} 
